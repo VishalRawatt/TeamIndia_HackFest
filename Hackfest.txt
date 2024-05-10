@@ -1,5 +1,5 @@
 HackFest commits:-
 1. Initialization of project.
-2 to 6 Include software and hardware files
+2 to 6x Include software and hardware files
 7. Include PPT
 8-12 Finalization of project and documentation.
