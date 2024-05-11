@@ -54,3 +54,18 @@ Workflow Overview:
    - Hardware components (ESP32, camera) synergize seamlessly with software algorithms (OpenCV, TensorFlow/PyTorch), ensuring efficient data processing and accurate object detection.
    - This integrated approach optimizes performance, enabling rapid response and reliable detection capabilities.
 
+
+
+  Circuitry Diagram:-
+  
+   ![WhatsApp Image 2024-05-11 at 05 47 12_2252994b](https://github.com/VishalRawatt/TeamIndia_HackFest/assets/94183896/647d241e-57e0-48a3-b9a1-6363c6f34215)
+
+   
+   ![WhatsApp Image 2024-05-11 at 05 47 11_3c5dadd1](https://github.com/VishalRawatt/TeamIndia_HackFest/assets/94183896/206f63ff-c4f0-4dac-845b-763f047799e9)
+
+
+   Circuit Connection:-
+![WhatsApp Image 2024-05-11 at 01 55 21_cdb76458](https://github.com/VishalRawatt/TeamIndia_HackFest/assets/94183896/78534828-1051-4a3d-8c4b-a100e07d27b8)
+
+
+
